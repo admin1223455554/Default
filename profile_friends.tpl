@@ -1,0 +1,1 @@
+<div class="onefriend" onMouseOver="friends.show('{user-id}', '{name} {last-name}', 'onefrienda')" onMouseOut="friends.hide('{user-id}', 'onefrienda')" id="onefrienda{user-id}"><a href="/u{user-id}" onClick="Page.Go(this.href); return false"><div><img src="{ava}" alt="" /></div></a></div>
